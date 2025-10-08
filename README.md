@@ -7,7 +7,6 @@ Hola, soy un estudiente de laCarrera de Ingenieria de **Desarrollo de Software d
 - **Programador de Unity Principiante**.
 - **Photoshop Basico**.
 - **Ingles nivel B2**.
-- **Japones Basico**.
 
 Redes Sociales
 
